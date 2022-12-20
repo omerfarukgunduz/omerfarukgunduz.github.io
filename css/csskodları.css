@@ -41,7 +41,7 @@ li a {
 }
 
 li a:hover {
-  background-color: green;
+  background-color: rgb(255, 25, 25);
 }
 
 #alllist {
@@ -75,8 +75,8 @@ tr:nth-child(even) {
 #M2 {
   max-height: 100%;
   max-width: 100%;
-  color: red;
-  padding: 100px 0px 100px 450px;
+  color: rgb(85, 83, 83);
+  padding: 400px 0px 100px 1px;
 }
 
 #list1 {
